@@ -2,9 +2,10 @@ project:
   type: website
   resources: 
     - "CNAME"
-    
+
 website:
   title: "stoneyBrosGaming"
+  favicon: sbg_round_Avatar.png
   navbar:
     right:
       - about.qmd
