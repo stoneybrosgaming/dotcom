@@ -1,0 +1,14 @@
+---
+title: "LFG"
+author: "L8rhosen"
+date: "2024-12-1"
+categories: [announcements]
+---
+
+We are Stoney Bros Gaming
+
+<!-- ![](thumbnail.jpg) -->
+
+Today we launched this site. It's for us. It's what we want. Enjoy.
+
+end of line.
