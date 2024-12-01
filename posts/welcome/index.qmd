@@ -8,6 +8,7 @@ categories: [announcements]
 We are Stoney Bros Gaming
 
 <!-- ![](thumbnail.jpg) -->
+<!-- Left this to show how to add a picutre -->
 
 Today we launched this site. It's for us. It's what we want. Enjoy.
 
