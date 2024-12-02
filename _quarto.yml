@@ -6,6 +6,7 @@ project:
 website:
   title: "stoneyBrosGaming"
   favicon: sbg_round_Avatar.png
+  open-graph: true
   navbar:
     right:
       - about.qmd
