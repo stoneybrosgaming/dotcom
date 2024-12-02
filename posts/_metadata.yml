@@ -7,3 +7,8 @@ freeze: true
 # Enable banner style title blocks
 title-block-banner: true
 
+# Enable conical mode so visual mode doens't change markdown
+editor: 
+  markdown: 
+    canonical: true
+
