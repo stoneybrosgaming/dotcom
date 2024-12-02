@@ -6,7 +6,7 @@ categories: [clips]
 image: l8rbestplay.png
 ---
 
-It's a lost art for some.. mount up that thing.  Then watch all teh little pukes run into your bullets.  
+It's a lost art for some.. mount up that thing.  Then watch all the little pukes run into your bullets.  
 
 {{< video https://www.youtube.com/watch?v=Ig1u9fodbnU >}}
 
