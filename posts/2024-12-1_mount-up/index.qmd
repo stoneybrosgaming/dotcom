@@ -2,7 +2,7 @@
 title: "L8r the Mounty"
 author: "L8rhosen"
 date: "2024-12-1"
-categories: [announcements]
+categories: [clips]
 image: l8rbestplay.png
 ---
 
