@@ -1,0 +1,13 @@
+---
+title: "L8r the Mounty"
+author: "L8rhosen"
+date: "2024-12-1"
+categories: [announcements]
+image: l8rbestplay.png
+---
+
+It's a lost art for some.. mount up that thing.  Then watch all teh little pukes run into your bullets.  
+
+{{< video https://www.youtube.com/watch?v=Ig1u9fodbnU >}}
+
+end of line.
