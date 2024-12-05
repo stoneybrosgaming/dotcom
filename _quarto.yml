@@ -10,6 +10,7 @@ website:
   navbar:
     right:
       - about.qmd
+      - merch.qmd
       - icon: youtube
         href: https://www.youtube.com/@stoneybrosgaming
         
