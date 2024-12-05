@@ -1,0 +1,15 @@
+---
+title: "EXCITEBIKE 2.0"
+author: "EHsaTurpentine"
+date: "2024-12-5"
+categories: [clips] 
+---
+
+![](QUAD_COPTER.jpg) ---\
+**BUNNY COLVIN** is back in the saddle + raising much cain! Whatever that means!
+
+TRY. FAIL. LEARN.
+
+{{< video https://youtu.be/37R_29FWESo >}}
+
+end of line.
