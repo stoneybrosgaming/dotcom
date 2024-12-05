@@ -5,7 +5,12 @@ date: "2024-12-5"
 categories: [clips]
 
 ---
-PEDESTRIANS CAVEAT EMPTOR.
+ATTENTION PEDESTRIANS: CAVEAT EMPTOR.
+
+TRY.
+FAIL.
+LEARN.
+
 {{< video https://youtu.be/37R_29FWESo >}}
 
 end of line.
