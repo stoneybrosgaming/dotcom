@@ -1,0 +1,26 @@
+---
+title: The best Images around
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: false
+---
+
+
+## AI is coming for us!!
+
+
+:::: {.columns}
+
+::: {.column width="30%"}
+![](https://difal35hjlwym.cloudfront.net/stormtrooper_crossing.jpeg){group="ai-gallery" width=150px}
+:::
+
+::: {.column width="30%"}
+![](https://difal35hjlwym.cloudfront.net/vader_coffee.jpeg){group="ai-gallery" width=150px}
+:::
+
+::: {.column width="30%"}
+
+:::
