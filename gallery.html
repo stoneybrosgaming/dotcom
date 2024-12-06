@@ -6,10 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="EHsaTurpentine">
-<meta name="dcterms.date" content="2024-12-05">
 
-<title>HEY GRAVYTRAINERS!!! – stoneyBrosGaming</title>
+<title>The best Images around – stoneyBrosGaming</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -42,6 +40,9 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-f15cac6acf9265dfacdbc782e11db72c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,9 +73,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="HEY GRAVYTRAINERS!!! – stoneyBrosGaming">
-<meta property="og:description" content="">
-<meta property="og:image" content="https://stoneybrosgaming.com/TFL_MUG.jpg">
+<meta property="og:title" content="The best Images around – stoneyBrosGaming">
 <meta property="og:site_name" content="stoneyBrosGaming">
 </head>
 
@@ -136,29 +135,14 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">HEY GRAVYTRAINERS!!!</h1>
-  <div class="quarto-categories">
-    <div class="quarto-category">merch</div>
-  </div>
-  </div>
+<h1 class="title">The best Images around</h1>
+</div>
 
 
 
 <div class="quarto-title-meta">
 
-    <div>
-    <div class="quarto-title-meta-heading">Author</div>
-    <div class="quarto-title-meta-contents">
-             <p>EHsaTurpentine </p>
-          </div>
-  </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">December 5, 2024</p>
-    </div>
-  </div>
   
     
   </div>
@@ -168,13 +152,18 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><strong>YOU WHO IS HERE SCROLLING + LOADING FOR COMPLETELY FREE</strong> can help/hurt offset our monthly pharmacy bills! Take a gander at L8R’s immaculate designs on <a href="https://www.etsy.com/shop/L8rhosenDesigns?ref=cart_shop_name_click&amp;cart_id=10917772739#items">THE OFFICIAL SBG MERCH STORE</a> over at Etsy. Make it stick with your very own <strong>TRY. FAIL. LEARN.</strong> merch and stunt on all the haters at your next MtG tourney or whatever.<br>
-<br>
-<a href="https://www.etsy.com/shop/L8rhosenDesigns?ref=cart_shop_name_click&amp;cart_id=10917772739#items"><img src="posts/merch/TFL_MUG.jpg" class="img-fluid" alt="THAT CLASSIC TRY. FAIL. LEARN. MUG THO."></a></p>
-<p>BECAUSE + YOU KNOW + SUPPORT INDEPENDENT BUSINESSES + BECAUSE THAT’S PRETTY MUCH ALL WE GOT LEFT YA’LL.</p>
-<p>end of line.</p>
+<section id="ai-is-coming-for-us" class="level2">
+<h2 class="anchored" data-anchor-id="ai-is-coming-for-us">AI is coming for us!!</h2>
+<div class="columns">
+<div class="column" style="width:30%;">
+<p><a href="https://difal35hjlwym.cloudfront.net/stormtrooper_crossing.jpeg" class="lightbox" data-gallery="ai-gallery"><img src="https://difal35hjlwym.cloudfront.net/stormtrooper_crossing.jpeg" class="img-fluid" width="150"></a></p>
+</div><div class="column" style="width:30%;">
+<p><a href="https://difal35hjlwym.cloudfront.net/vader_coffee.jpeg" class="lightbox" data-gallery="ai-gallery"><img src="https://difal35hjlwym.cloudfront.net/vader_coffee.jpeg" class="img-fluid" width="150"></a></p>
+</div><div class="column" style="width:30%;">
 
-
+</div>
+</div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -595,6 +584,38 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<script>var lightboxQuarto = GLightbox({"closeEffect":"fade","descPosition":"bottom","loop":false,"openEffect":"fade","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 
