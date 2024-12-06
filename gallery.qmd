@@ -36,3 +36,31 @@ lightbox:
 ::: {.column width="30%"}
 ![](https://difal35hjlwym.cloudfront.net/EH/AI/EVH_A1_4.png){group="ai-gallery" width=150px}
 :::
+
+::: {.column width="30%"}
+![](https://difal35hjlwym.cloudfront.net/EH/AI/THUGGS_A1_1.png){group="ai-gallery" width=150px}
+:::
+
+::: {.column width="30%"}
+![](https://difal35hjlwym.cloudfront.net/EH/AI/THUGGS_A1_2.png){group="ai-gallery" width=150px}
+:::
+
+::: {.column width="30%"}
+![](https://difal35hjlwym.cloudfront.net/EH/AI/THUGGS_A1_3.png){group="ai-gallery" width=150px}
+:::
+
+::: {.column width="30%"}
+![](https://difal35hjlwym.cloudfront.net/EH/AI/THUGGS_A1_4.png){group="ai-gallery" width=150px}
+:::
+
+::: {.column width="30%"}
+![](https://difal35hjlwym.cloudfront.net/EH/AI/THUGGS_A1_5.png){group="ai-gallery" width=150px}
+:::
+
+::: {.column width="30%"}
+![](https://difal35hjlwym.cloudfront.net/EH/AI/THUGGS_A1_6.png){group="ai-gallery" width=150px}
+:::
+
+::: {.column width="30%"}
+![](https://difal35hjlwym.cloudfront.net/EH/AI/THUGGS_A1_7.png){group="ai-gallery" width=150px}
+:::
