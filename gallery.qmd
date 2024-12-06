@@ -1,5 +1,5 @@
 ---
-title: The best Images around
+title: A.I. IS COMING FOR US!!
 lightbox:
   match: auto
   effect: fade
@@ -8,7 +8,7 @@ lightbox:
 ---
 
 
-## AI is coming for us!!
+## LOOK ON MY WORKS YE MIGHTY + DESPAIR.
 
 
 :::: {.columns}
