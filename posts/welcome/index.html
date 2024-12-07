@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 
 <link rel="stylesheet" href="../../styles.css">
 <meta property="og:title" content="LFG – stoneyBrosGaming">
-<meta property="og:description" content="">
+<meta property="og:description" content="Try. Fail. Learn.">
 <meta property="og:site_name" content="stoneyBrosGaming">
 </head>
 
@@ -115,6 +115,11 @@ ul.task-list li input[type="checkbox"] {
   </li>
   <li class="nav-item compact">
     <a class="nav-link" href="https://www.youtube.com/@stoneybrosgaming"> <i class="bi bi-youtube" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="../../index.xml"> <i class="bi bi-rss" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -267,7 +272,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/stoneybrosgaming\.com");
+      var filterRegex = new RegExp("https:\/\/www\.stoneybrosgaming\.com");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
