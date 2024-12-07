@@ -5,6 +5,8 @@ project:
 
 website:
   title: "stoneyBrosGaming"
+  site-url: https://www.stoneybrosgaming.com
+  description: "Try. Fail. Learn."
   favicon: sbg_round_Avatar.png
   open-graph: true
   navbar:
@@ -16,10 +18,11 @@ website:
           - gallery.qmd
       - icon: youtube
         href: https://www.youtube.com/@stoneybrosgaming
+      - icon: rss
+        href: index.xml
+
         
 format:
   html:
     theme: vapor
     css: styles.css
-
-
