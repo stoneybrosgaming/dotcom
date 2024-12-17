@@ -1,9 +1,0 @@
----
-title: "EVH EXPEDITIONARY FORCE FTW."
-author: "EHsaTurpentine"
-date: "2024-12-16"
-categories: [8bit]
-image: EVH_EXPEDITION.png ---
-
-
-end of line.
