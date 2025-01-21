@@ -1,0 +1,13 @@
+---
+title: "Training Day"
+author: "L8rhosen"
+date: "2025-01-20"
+categories: [clips]
+image: training-day.jpg
+---
+
+Time for a little lesson.  How to play fortnite and win. The PROHOUSE way.
+
+{{< video https://www.youtube.com/watch?v=-d8Shuhm5TM >}}
+
+end of line.
