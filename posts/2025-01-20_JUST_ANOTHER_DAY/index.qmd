@@ -1,0 +1,12 @@
+---
+title: "JUST ANOTHER DAY"
+author: "EhsaTurpentine"
+date: "2025-01-20"
+categories: [clips]
+image: 
+---
+BUNNY COLVIN just punchin the clock on just another day + maybe a wee bit more than just punchin.
+
+{{< video https://youtu.be/CWGE8oIi2Lw >}}
+
+end of line.
