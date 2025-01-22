@@ -1,0 +1,13 @@
+---
+title: "Bird on the Run"
+author: "L8rhosen"
+date: "2025-01-21"
+categories: [clips]
+image: bird_run.jpg
+---
+
+Don't mess with the bird, you get the beak.
+
+{{< video https://youtu.be/Ar9YC45u8Lw >}}
+
+end of line.
