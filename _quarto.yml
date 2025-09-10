@@ -2,6 +2,7 @@ project:
   type: website
   resources: 
     - "CNAME"
+    - "splash.js"
 
 website:
   title: "stoneyBrosGaming"
@@ -26,3 +27,6 @@ format:
   html:
     theme: vapor
     css: styles.css
+    include-after-body: 
+      text: |
+        <script src="splash.js"></script>
