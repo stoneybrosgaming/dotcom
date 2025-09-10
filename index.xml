@@ -9,7 +9,7 @@
 <link>https://www.stoneybrosgaming.com/</link>
 <atom:link href="https://www.stoneybrosgaming.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>Try. Fail. Learn.</description>
-<generator>quarto-1.6.40</generator>
+<generator>quarto-1.7.34</generator>
 <lastBuildDate>Tue, 21 Jan 2025 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Bird on the Run</title>
@@ -34,6 +34,27 @@
   <media:content url="https://www.stoneybrosgaming.com/posts/2025-01-21_bird-on-the-run/bird_run.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>WHERE’S THAT VALET?!</title>
+  <dc:creator>EhsaTurpentine </dc:creator>
+  <link>https://www.stoneybrosgaming.com/posts/2025-01-20_FARMING_101/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>BUNNY COLVIN is late for a very important something or other + CANNOT FIND THE FUCKING VALET ARE YOU KIDDING ME???</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/o6XbcgbyG_o" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>end of line.</p>
+
+
+
+ ]]></description>
+  <category>clips</category>
+  <guid>https://www.stoneybrosgaming.com/posts/2025-01-20_FARMING_101/</guid>
+  <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
+</item>
+<item>
   <title>Training Day</title>
   <dc:creator>L8rhosen </dc:creator>
   <link>https://www.stoneybrosgaming.com/posts/2025-01-20_training-day/</link>
@@ -54,27 +75,6 @@
   <guid>https://www.stoneybrosgaming.com/posts/2025-01-20_training-day/</guid>
   <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
   <media:content url="https://www.stoneybrosgaming.com/posts/2025-01-20_training-day/training-day.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>WHERE’S THAT VALET?!</title>
-  <dc:creator>EhsaTurpentine </dc:creator>
-  <link>https://www.stoneybrosgaming.com/posts/2025-01-20_FARMING_101/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p>BUNNY COLVIN is late for a very important something or other + CANNOT FIND THE FUCKING VALET ARE YOU KIDDING ME???</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/o6XbcgbyG_o" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<p>end of line.</p>
-
-
-
- ]]></description>
-  <category>clips</category>
-  <guid>https://www.stoneybrosgaming.com/posts/2025-01-20_FARMING_101/</guid>
-  <pubDate>Mon, 20 Jan 2025 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>JUST ANOTHER DAY</title>
@@ -134,42 +134,20 @@
 
 
 
-<p><img src="https://www.stoneybrosgaming.com/posts/2024-12-6_gettodachoppa/EVH_EXPEDITION.png" class="img-fluid"> —<br>
-</p>
-<hr>
+<section id="section" class="level2">
+<h2 class="anchored" data-anchor-id="section"><img src="https://www.stoneybrosgaming.com/posts/2024-12-6_gettodachoppa/EVH_EXPEDITION.png" class="img-fluid"> —<br>
+</h2>
 <p>TRY. FAIL. LEARN.</p>
 <p>end of line.</p>
 
 
+</section>
 
  ]]></description>
   <category>8 bit</category>
   <guid>https://www.stoneybrosgaming.com/posts/2024-12-6_gettodachoppa/</guid>
   <pubDate>Sun, 15 Dec 2024 00:00:00 GMT</pubDate>
   <media:content url="https://www.stoneybrosgaming.com/posts/2024-12-6_gettodachoppa/EVH_EXPEDITION.png" medium="image" type="image/png" height="81" width="144"/>
-</item>
-<item>
-  <title>EXCITEBIKE 2.0</title>
-  <dc:creator>EHsaTurpentine </dc:creator>
-  <link>https://www.stoneybrosgaming.com/posts/2024-12-5_excitebike/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-<p><img src="https://www.stoneybrosgaming.com/posts/2024-12-5_excitebike/QUAD_COPTER.jpg" class="img-fluid"> —<br>
-<strong>BUNNY COLVIN</strong> is back in the saddle + raising much cain! Whatever that means!</p>
-<p>TRY. FAIL. LEARN.</p>
-<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/37R_29FWESo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
-<p>end of line.</p>
-
-
-
- ]]></description>
-  <category>clips</category>
-  <guid>https://www.stoneybrosgaming.com/posts/2024-12-5_excitebike/</guid>
-  <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>HEY GRAVYTRAINERS!!!</title>
@@ -194,6 +172,29 @@
   <guid>https://www.stoneybrosgaming.com/posts/merch/</guid>
   <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
   <media:content url="https://www.stoneybrosgaming.com/posts/merch/TFL_MUG.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>EXCITEBIKE 2.0</title>
+  <dc:creator>EHsaTurpentine </dc:creator>
+  <link>https://www.stoneybrosgaming.com/posts/2024-12-5_excitebike/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p><img src="https://www.stoneybrosgaming.com/posts/2024-12-5_excitebike/QUAD_COPTER.jpg" class="img-fluid"> —<br>
+<strong>BUNNY COLVIN</strong> is back in the saddle + raising much cain! Whatever that means!</p>
+<p>TRY. FAIL. LEARN.</p>
+<div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/37R_29FWESo" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div>
+<p>end of line.</p>
+
+
+
+ ]]></description>
+  <category>clips</category>
+  <guid>https://www.stoneybrosgaming.com/posts/2024-12-5_excitebike/</guid>
+  <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
 </item>
 <item>
   <title>LFG</title>
