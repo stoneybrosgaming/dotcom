@@ -10,6 +10,9 @@ listing:
   feed: true
 page-layout: full
 title-block-banner: true
+include-after-body: 
+  text: |
+    <script src="splash.js"></script>
 ---
 
 
